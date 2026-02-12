@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Soham Salunkhe 🇮🇳
+### Professional Esports Athlete (100 Thieves) | Support Player
 
-<!--
-**SohamCode-Main/SohamCode-Main** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is my official player portfolio:
 
-Here are some ideas to get you started:
+- 🎮 **Team:** 100 Thieves
+- 🏆 **Role:** Support / Anchor
+- 📍 **Region:** India
+- 💻 **Interests:** Web Development & Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Check out my official links:
+[Click here for my Website](https://sites.google.com/view/soham-salunkhe-100t/home)
